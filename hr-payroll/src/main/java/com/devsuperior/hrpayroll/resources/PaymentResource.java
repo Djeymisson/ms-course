@@ -11,7 +11,7 @@ import com.devsuperior.hrpayroll.entities.Payment;
 import com.devsuperior.hrpayroll.services.PaymentService;
 
 @RestController
-@RequestMapping(value = "/payment")
+@RequestMapping(value = "/payments")
 public class PaymentResource {
 
 	@Autowired
