@@ -6,6 +6,10 @@ https://youtube.com/devsuperior
 
 https://instagram.com/devsuperior.ig
 
+# Visão Geral
+
+![alt text](https://github.com/Djeymisson/ms-course/raw/main/hr-project-blueprint.png)
+
 # Fase 1: Comunicação simples, Feign, Ribbon
 
 ### 1.1 Criar projeto hr-worker
