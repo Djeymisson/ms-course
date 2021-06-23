@@ -1,5 +1,7 @@
 # Criando e testando containers Docker
 
+![alt text](https://github.com/Djeymisson/ms-course/blob/main/docker_overview.png)
+
 ## Criar rede docker para sistema hr
 ```
 docker network create hr-net
