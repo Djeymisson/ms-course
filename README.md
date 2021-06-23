@@ -186,6 +186,8 @@ Source -> Override -> authenticationManager()
 
 Basic authorization = "Basic " + Base64.encode(client-id + ":" + client-secret)
 
+![alt text](https://github.com/Djeymisson/ms-course/blob/main/4.9%20JWT%20needs.png)
+
 ### 4.10 Autorização de recursos pelo gateway Zuul
 
 ### 4.11 Deixando o Postman top
